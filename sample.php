@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo "Hello<br>\n";
+        echo "Hello World</br>";
         echo "Date is: " . date('j-m-y, h:i:s');
     ?>
 </body>
